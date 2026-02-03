@@ -24,6 +24,3 @@ With a strong background in physics and advanced mathematics, I bridge theoretic
 |-------|--------|------|-------|
 | Hack&Change 2025 (PSB) | 🥇 **1st place** | Data Analyst | Developed RS for students has been developed |
 
----
-
-🧠  *Exploring interaction of radio engineering and artificial intelligence to create next-generation computer vision systems is a very interesting endeavor*
