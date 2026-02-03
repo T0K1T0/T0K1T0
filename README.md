@@ -22,5 +22,5 @@ With a strong background in physics and advanced mathematics, I bridge theoretic
 ## 🏆 Achievements
 | Event | Result | Role | Notes |
 |-------|--------|------|-------|
-| Hack&Change 2025 (PSB) | 🥇 **1st place** | Data Analyst | Developed RS for students has been developed |
+| Hack&Change 2025 (PSB) | 🥇 **1st place** | Data Analyst | Developed RecSys for students |
 
